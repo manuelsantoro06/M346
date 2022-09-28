@@ -60,5 +60,5 @@ mehr als herkömmliche Kauf-Lizenzen. Bekannte Beispiele für SaaS sind Microsof
 den Sie selbst nur noch mit Ihren Artikeln befüllen, ist ein typisches SaaS-Angebot.
 </p>
  
- <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.plesk.com%2Fblog%2Fvarious%2Fiaas-vs-paas-vs-saas-various-cloud-service-models-compared%2F&psig=AOvVaw3fSFbdlr8fLjfgzgT_mWZ3&ust=1664480440987000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjK-YCfuPoCFQAAAAAdAAAAABAD">Pic</a> 
+ <a href="https://scdn1.plesk.com/wp-content/uploads/2018/07/24145531/header-blog_1920x400-comparing-cloud-models.png">Pic</a> 
 
