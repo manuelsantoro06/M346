@@ -25,5 +25,15 @@ Software as a Service bedeutet, dass man eine einzelne Softwarelösung oder ein 
 anstatt regelmäßig neue Lizenzen der aktuellen Programmversionen zu kaufen. Während der Nutzung der Software sind Ihre Arbeitsplatz-Rechner
 oder Ihr Firmennetzwerk in der Regel über das Internet mit der Cloud des Anbieters verbunden.
  
+<h1 style="color: rgb(25, 72, 112);">Private Cloud vs Public Cloud vs Hybride Cloud vs Multi Cloud</h1>
+<p style="color: rgb(25, 72, 112);">
+
+Private Cloud  --> Sachen im eigenen Netzwerk --> FileServer / OnPremise Sache
+Public Cloud   -->  Öffentlich zugänglich --> Azure, Gegenteil von On Premise
+Hybride Cloud --> Combi zwischen privet and public cloud zb.B. OnPremis AD mit AzureAD kombiniert
+Multi Cloud    --->  Multi-Clouds bestehen aus mehr als einem Cloud-Deployment des gleichen Typs (Public oder Private) von verschiedenen Anbietern
+
+</p>
+ 
  <a href="https://scdn1.plesk.com/wp-content/uploads/2018/07/24145531/header-blog_1920x400-comparing-cloud-models.png">Pic</a> 
 
