@@ -16,6 +16,8 @@ PaaS bietet aber zusätzlich Software, beispielsweise Betriebssysteme, Middlewar
 Dies ist die Ebene, auf der üblicherweise Entwickler arbeiten, wenn die Entwikler neue Software programmieren und testen. Je nach gewähltem
 Vertragsmodell kümmert sich der Dienstleister auch um regelmäßige Backups Ihrer Daten sowie um einen aktuellen Virenschutz und eine Firewall.
  
+ <img border="0" alt="pic" src="https://scdn1.plesk.com/wp-content/uploads/2018/07/24145531/header-blog_1920x400-comparing-cloud-models.png" width="500" height="800">
+ 
 </p >
 
 
@@ -35,5 +37,5 @@ Multi Cloud    --->  Multi-Clouds bestehen aus mehr als einem Cloud-Deployment d
 
 </p>
  
- <a href="https://scdn1.plesk.com/wp-content/uploads/2018/07/24145531/header-blog_1920x400-comparing-cloud-models.png">Pic</a> 
+
 
