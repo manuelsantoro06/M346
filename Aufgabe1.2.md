@@ -2,7 +2,7 @@
 
 
 <p style="color: rgb(25, 72, 112);">
-Auf dieser Hardware kann man beispielsweise eigene virtuelle Rechner (Virtual Machines) aufsetzen.
+Auf dieser Hardware kann man beispielsweise eigene virtuelle Rechner aufsetzen.
 Über eine passende API, also eine Programmierschnittstelle, greift man über ein WAN (Wide Area Network) auf die gemietete
 Infrastruktur zu und installieren darauf dann Betriebssysteme und Anwendungen. Alles, was man an Software benötigt,
 richtet man somit selber ein: vom Betriebssystem über die Middleware, die intern Zugriffe auf Ressourcen reguliert, 
@@ -21,7 +21,7 @@ Vertragsmodell kümmert sich der Dienstleister auch um regelmäßige Backups Ihr
 
 <h1 style="color: rgb(25, 72, 112);">SaaS: Softwarelösungen aus der Cloud</h1>
 <p style="color: rgb(25, 72, 112);">
-Software as a Service (SaaS) bedeutet, dass man eine einzelne Softwarelösung oder ein Software-Paket bei Ihrem Cloud-Anbieter auf Zeit mieten,
+Software as a Service bedeutet, dass man eine einzelne Softwarelösung oder ein Software-Paket bei Ihrem Cloud-Anbieter auf Zeit mieten,
 anstatt regelmäßig neue Lizenzen der aktuellen Programmversionen zu kaufen. Während der Nutzung der Software sind Ihre Arbeitsplatz-Rechner
 oder Ihr Firmennetzwerk in der Regel über das Internet mit der Cloud des Anbieters verbunden.
  
